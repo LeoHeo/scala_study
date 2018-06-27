@@ -47,7 +47,7 @@ object Functional {
   /**
     * Functional
     * mkString은 iterable collection(배열, 리스트, 집합, 맵)에 호출 가능
-    * toString을 각 우너소에 호출해서 얻은 문자열 사이에 인자로 넘긴 문자열을 끼워 반환
+    * toString을 각 원소에 호출해서 얻은 문자열 사이에 인자로 넘긴 문자열을 끼워 반환
     * @param args
     * @return
     */
